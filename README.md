@@ -13,18 +13,15 @@ cd ml-kaggle-competition
 - Abrir el archivo ml-titanic.ipynb
 - Ejecutar el secuencialmente los bloques de código
 
-# Recorrido del código
-- Importamos el dataset a utilizar y lo exploramos.
-- Imputamos los valores nulos, completamos con las medias de las columnas.
-- Exploramos los datos visualemnte para ver la correlatividad de los valores.
-- Eliminamos las columnas que tienen mucha correlatividad.
-- Cambiamos los valores categoricos por binarios.
-- Entrenamos 3 modelos:
-    - LogisticRegression
-    - KNeighborsClassifier
-    - RandomForestClassifier
-- Comparamos los resultados de los modelos para quedarnos con el mejor resultado
-- Verificamos las estadisticas del modelo ganador.
+# Puntos obtenidos en Kaggle:
+Score: 0.78947
+Ranking: 1563
+
+
+
+
+
+
 
 
 # Autor:
